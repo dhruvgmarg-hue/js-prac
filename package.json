@@ -1,4 +1,7 @@
 {
+  "name": "js-prac",
+  "version": "1.0.0",
+  "type": "module",
   "dependencies": {
     "@js-temporal/polyfill": "^0.5.1"
   }
